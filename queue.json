@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ecomd2c-001",
+    "video": "videos/ecomd2c-001.mp4",
+    "caption": "Send this to the founder who needs to read it twice.",
+    "line": "Hey supplier, can we talk about why \"dear\" is doing so much work in this relationship.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 13:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-002",
+    "video": "videos/ecomd2c-002.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "I've told my mom \"it's basically like Amazon\" four separate times and she still doesn't get it.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 14:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-003",
+    "video": "videos/ecomd2c-003.mp4",
+    "caption": "Send this to the founder who needs to read it twice.",
+    "line": "The influencer who said \"obsessed\" and never posted it.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 14:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-004",
+    "video": "videos/ecomd2c-004.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "My longest relationship is with a product that stopped converting eight months ago and I still haven't taken it off the site.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 15:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-005",
+    "video": "videos/ecomd2c-005.mp4",
+    "caption": "Comment ROAS and I'll send you the diagnostic that tells you if it's tracking, creative fatigue, or the market.",
+    "line": "Most people quit right before their break-even ROAS.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 15:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-006",
+    "video": "videos/ecomd2c-006.mp4",
+    "caption": "Tag someone running ads who needs to see this.",
+    "line": "\"Testing budget\" is hope with a line item.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 16:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-007",
+    "video": "videos/ecomd2c-007.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "You find the winning hook the day after you kill the campaign.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 16:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-008",
+    "video": "videos/ecomd2c-008.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "You've had a full negotiation in broken English and somehow understood everything.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 17:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-009",
+    "video": "videos/ecomd2c-009.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "My ad account and I are in a situationship. It gives me nothing consistent and I keep coming back.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 17:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-010",
+    "video": "videos/ecomd2c-010.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "To my 3PL: \"processing\" is not a timeline, it's a feeling.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 18:07",
+    "result": null
+  }
+]
