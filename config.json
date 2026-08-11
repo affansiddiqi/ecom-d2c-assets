@@ -2,5 +2,5 @@
   "public_assets_base": "https://raw.githubusercontent.com/affansiddiqi/ecom-d2c-assets/main",
   "timezone": "UTC",
   "max_per_run": 1,
-  "keep_posted_videos": 3
+  "keep_posted_videos": 0
 }
