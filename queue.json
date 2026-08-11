@@ -2,30 +2,32 @@
   {
     "id": "ecomd2c-001",
     "video": "videos/ecomd2c-001.mp4",
-    "caption": "Send this to the founder who needs to read it twice.",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nComment CREATIVE and I'll send you the checklist.",
     "line": "Hey supplier, can we talk about why \"dear\" is doing so much work in this relationship.",
     "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-11 13:37",
     "result": "posted",
     "error": null,
-    "post_id": "17906751162466875",
-    "posted_at_utc": "2026-08-11 14:04:26",
-    "video_deleted": true
+    "post_id": "17953287834229133",
+    "posted_at_utc": "2026-08-11 15:02:48",
+    "video_deleted": true,
+    "keyword": "CREATIVE"
   },
   {
     "id": "ecomd2c-002",
     "video": "videos/ecomd2c-002.mp4",
-    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nComment TRACKING and I'll send you the audit.",
     "line": "I've told my mom \"it's basically like Amazon\" four separate times and she still doesn't get it.",
     "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-11 14:07",
     "result": "posted",
-    "post_id": "18612861229049191",
-    "posted_at_utc": "2026-08-11 14:49:30",
+    "post_id": "18098748323459906",
+    "posted_at_utc": "2026-08-11 15:02:48",
     "error": null,
-    "video_deleted": true
+    "video_deleted": true,
+    "keyword": "TRACKING"
   },
   {
     "id": "ecomd2c-003",
