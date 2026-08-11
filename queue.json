@@ -98,5 +98,105 @@
     "status": "approved",
     "scheduled_at": "2026-08-11 18:07",
     "result": null
+  },
+  {
+    "id": "ecomd2c-011",
+    "video": "videos/ecomd2c-011.mp4",
+    "caption": "Send this to the founder who needs to read it twice.",
+    "line": "I've read a one-star review out loud to an empty room, just to feel something.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 18:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-012",
+    "video": "videos/ecomd2c-012.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "I've said \"no, this is a legit business\" more times than I've said \"I love you.\"",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 19:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-013",
+    "video": "videos/ecomd2c-013.mp4",
+    "caption": "Send this to the founder who needs to read it twice.",
+    "line": "I check my ad account before I check my phone. That's the real relationship.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 19:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-014",
+    "video": "videos/ecomd2c-014.mp4",
+    "caption": "Comment TRACKING and I'll send you the audit for checking if your Pixel is actually reporting right.",
+    "line": "You've refreshed a tracking page more than you've refreshed anything in your personal life.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 20:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-015",
+    "video": "videos/ecomd2c-015.mp4",
+    "caption": "Comment CREATIVE and I'll send you the checklist for telling a dying ad from a dead audience.",
+    "line": "Winning creative (noun): temporary.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 20:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-016",
+    "video": "videos/ecomd2c-016.mp4",
+    "caption": "Comment CREATIVE and I'll send you the checklist for telling a dying ad from a dead audience.",
+    "line": "Day 12 of blaming the algorithm instead of the creative.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 21:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-017",
+    "video": "videos/ecomd2c-017.mp4",
+    "caption": "Send this to the founder who needs to read it twice.",
+    "line": "Whatever product you're most confident in flops first.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 21:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-018",
+    "video": "videos/ecomd2c-018.mp4",
+    "caption": "Tag someone running ads who needs to see this.",
+    "line": "My relationship with my Chinese supplier has more consistent communication than my last relationship.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 22:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-019",
+    "video": "videos/ecomd2c-019.mp4",
+    "caption": "Tag someone running ads who needs to see this.",
+    "line": "Six figures a month and I still double-check if the payment actually went through.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 22:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-020",
+    "video": "videos/ecomd2c-020.mp4",
+    "caption": "This is the whole job, honestly.",
+    "line": "You've unpaused a losing ad \"on a feeling.\"",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 23:07",
+    "result": null
   }
 ]
