@@ -52,8 +52,12 @@
     "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-11 16:47",
-    "result": null,
-    "keyword": "SCALE"
+    "result": "posted",
+    "keyword": "SCALE",
+    "post_id": "18106536628885204",
+    "posted_at_utc": "2026-08-11 17:47:29",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-005",
