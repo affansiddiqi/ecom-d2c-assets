@@ -127,8 +127,12 @@
     "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-11 21:47",
-    "result": null,
-    "keyword": "TRACKING"
+    "result": "posted",
+    "keyword": "TRACKING",
+    "post_id": "18095404613058599",
+    "posted_at_utc": "2026-08-11 22:30:21",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-010",
