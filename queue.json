@@ -198,5 +198,105 @@
     "status": "approved",
     "scheduled_at": "2026-08-11 23:07",
     "result": null
+  },
+  {
+    "id": "ecomd2c-021",
+    "video": "videos/ecomd2c-021.mp4",
+    "caption": "Comment ROAS and I'll send you the diagnostic that tells you if it's tracking, creative fatigue, or the market.",
+    "line": "Your ROAS is best on the one day you forget to check it.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-11 23:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-022",
+    "video": "videos/ecomd2c-022.mp4",
+    "caption": "Tag someone running ads who needs to see this.",
+    "line": "Revenue up 40%. Stress up 400%. Sleep down to whatever's left.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 00:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-023",
+    "video": "videos/ecomd2c-023.mp4",
+    "caption": "This is the whole job, honestly.",
+    "line": "Never negotiate MOQ on an empty stomach.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 00:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-024",
+    "video": "videos/ecomd2c-024.mp4",
+    "caption": "Send this to the founder who needs to read it twice.",
+    "line": "Mom, it's not gambling, it's paid acquisition, please sit down.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 01:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-025",
+    "video": "videos/ecomd2c-025.mp4",
+    "caption": "This is the whole job, honestly.",
+    "line": "Discipline is checking your numbers even on the days you don't want to.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 01:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-026",
+    "video": "videos/ecomd2c-026.mp4",
+    "caption": "Comment ROAS and I'll send you the diagnostic that tells you if it's tracking, creative fatigue, or the market.",
+    "line": "Never ask a man his income, his age, or his ROAS.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 02:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-027",
+    "video": "videos/ecomd2c-027.mp4",
+    "caption": "Comment ROAS and I'll send you the diagnostic that tells you if it's tracking, creative fatigue, or the market.",
+    "line": "ROAS doesn't lie. Your excuses do.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 02:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-028",
+    "video": "videos/ecomd2c-028.mp4",
+    "caption": "Comment TRACKING and I'll send you the audit for checking if your Pixel is actually reporting right.",
+    "line": "A chargeback dispute is an argument you're not allowed to participate in.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 03:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-029",
+    "video": "videos/ecomd2c-029.mp4",
+    "caption": "This is the whole job, honestly.",
+    "line": "Never let a man tell you his revenue before his profit margin.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 03:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-030",
+    "video": "videos/ecomd2c-030.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "You've said \"I completely understand your frustration\" while feeling nothing.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 04:07",
+    "result": null
   }
 ]
