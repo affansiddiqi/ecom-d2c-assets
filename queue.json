@@ -7,7 +7,8 @@
     "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-11 13:37",
-    "result": null
+    "result": "failed",
+    "error": "HTTP 400: {\"error\":{\"message\":\"Error validating access token: Session has expired on Monday, 10-Aug-26 20:00:00 PDT. The current time is Tuesday, 11-Aug-26 06:40:52 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":463,\"fbtrace_id\":\"AM0Hm-4ziGHpi4w8pJHUmgW\"}}"
   },
   {
     "id": "ecomd2c-002",
