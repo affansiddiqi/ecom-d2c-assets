@@ -398,5 +398,85 @@
     "status": "approved",
     "scheduled_at": "2026-08-12 09:07",
     "result": null
+  },
+  {
+    "id": "ecomd2c-041",
+    "video": "videos/ecomd2c-041.mp4",
+    "caption": "Comment ROAS and I'll send you the diagnostic that tells you if it's tracking, creative fatigue, or the market.",
+    "line": "If he won't tell you his ROAS, he's hiding a dead ad account.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 09:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-042",
+    "video": "videos/ecomd2c-042.mp4",
+    "caption": "Comment ROAS and I'll send you the diagnostic that tells you if it's tracking, creative fatigue, or the market.",
+    "line": "ROAS (noun): the number that decides if you're a genius or a fraud today.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 10:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-043",
+    "video": "videos/ecomd2c-043.mp4",
+    "caption": "Comment CREATIVE and I'll send you the checklist for telling a dying ad from a dead audience.",
+    "line": "A winning ad dying overnight is heartbreak with a dashboard.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 10:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-044",
+    "video": "videos/ecomd2c-044.mp4",
+    "caption": "This is the whole job, honestly.",
+    "line": "Day 3 of a supplier \"checking with the factory.\"",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 11:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-045",
+    "video": "videos/ecomd2c-045.mp4",
+    "caption": "Tag someone running ads who needs to see this.",
+    "line": "Dear supplier: \"quality is our top priority\" is doing a lot of lifting right now.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 11:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-046",
+    "video": "videos/ecomd2c-046.mp4",
+    "caption": "Send this to the founder who needs to read it twice.",
+    "line": "Revenue screenshots age well. Ad account screenshots don't.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 12:07",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-047",
+    "video": "videos/ecomd2c-047.mp4",
+    "caption": "Save this for the next time a client asks 'why isn't it working'.",
+    "line": "A supplier saying \"no problem\" is \"yes problem\" in professional clothing.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 12:37",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-048",
+    "video": "videos/ecomd2c-048.mp4",
+    "caption": "Comment CREATIVE and I'll send you the checklist for telling a dying ad from a dead audience.",
+    "line": "Nobody's coming to fix your creative fatigue for you.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-12 13:07",
+    "result": null
   }
 ]
