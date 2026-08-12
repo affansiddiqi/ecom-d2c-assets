@@ -247,8 +247,12 @@
     "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-12 05:47",
-    "result": null,
-    "keyword": "AGENCY"
+    "result": "posted",
+    "keyword": "AGENCY",
+    "post_id": "18088391291556835",
+    "posted_at_utc": "2026-08-12 10:50:00",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-018",
