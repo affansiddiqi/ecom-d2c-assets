@@ -712,7 +712,11 @@
     "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-13 12:47",
-    "result": null,
-    "keyword": "TRACKING"
+    "result": "posted",
+    "keyword": "TRACKING",
+    "post_id": "17886206550611451",
+    "posted_at_utc": "2026-08-13 23:09:58",
+    "error": null,
+    "video_deleted": true
   }
 ]
