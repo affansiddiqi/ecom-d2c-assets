@@ -607,8 +607,12 @@
     "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-13 05:47",
-    "result": null,
-    "keyword": "AGENCY"
+    "result": "posted",
+    "keyword": "AGENCY",
+    "post_id": "18276224599289094",
+    "posted_at_utc": "2026-08-13 16:23:47",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-042",
