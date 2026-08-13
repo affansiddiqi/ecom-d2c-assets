@@ -577,8 +577,12 @@
     "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-13 03:47",
-    "result": null,
-    "keyword": "ROAS"
+    "result": "posted",
+    "keyword": "ROAS",
+    "post_id": "18107319941132572",
+    "posted_at_utc": "2026-08-13 14:14:17",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-040",
