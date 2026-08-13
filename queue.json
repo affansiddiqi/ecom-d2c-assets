@@ -487,8 +487,12 @@
     "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-12 21:47",
-    "result": null,
-    "keyword": "TRACKING"
+    "result": "posted",
+    "keyword": "TRACKING",
+    "post_id": "18089467901535089",
+    "posted_at_utc": "2026-08-13 06:53:24",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-034",
