@@ -718,5 +718,115 @@
     "posted_at_utc": "2026-08-13 23:09:58",
     "error": null,
     "video_deleted": true
+  },
+  {
+    "id": "ecomd2c-101",
+    "video": "videos/ecomd2c-101.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "Your idea of a break is switching from Meta Ads Manager to TikTok Ads Manager.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 03:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-102",
+    "video": "videos/ecomd2c-102.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "Influencer collab (noun): a $60 product and a story that disappears in 24 hours.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 04:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-103",
+    "video": "videos/ecomd2c-103.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "I've unpaused a dead ad set \"just to see.\"",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 05:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-104",
+    "video": "videos/ecomd2c-104.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "Every Shopify notification sound triggers hope you no longer actually feel.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 06:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-105",
+    "video": "videos/ecomd2c-105.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "3PL (noun): the reason you're checking a tracking number at 2am.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 07:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-106",
+    "video": "videos/ecomd2c-106.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "A wise man once said: never let your mother see your Ads Manager.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 08:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-107",
+    "video": "videos/ecomd2c-107.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "Most people quit right before their break-even ROAS.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 09:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-108",
+    "video": "videos/ecomd2c-108.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "$50k month. Still splitting a pizza with my VA over Zoom to celebrate.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 10:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-109",
+    "video": "videos/ecomd2c-109.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "A green ROAS number can fix your entire mood.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 11:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-110",
+    "video": "videos/ecomd2c-110.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "To my ad account: we need to talk about consistency.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 12:21",
+    "result": null
   }
 ]
