@@ -1598,5 +1598,115 @@
     "status": "approved",
     "scheduled_at": "2026-08-23 10:21",
     "result": null
+  },
+  {
+    "id": "ecomd2c-081",
+    "video": "videos/ecomd2c-081.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "Break-even ROAS (noun): the number nobody mentions at the mastermind dinner.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 11:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-082",
+    "video": "videos/ecomd2c-082.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "The tracking number updates the second the customer opens a dispute.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 12:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-083",
+    "video": "videos/ecomd2c-083.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "Day 14 of a winning creative I'm too scared to touch.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 13:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-084",
+    "video": "videos/ecomd2c-084.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "Your Business Manager gets flagged the day before Black Friday.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 14:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-085",
+    "video": "videos/ecomd2c-085.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "The algorithm doesn't know your rent is due. Perform anyway.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 15:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-086",
+    "video": "videos/ecomd2c-086.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "There are three things you never discuss at dinner: politics, religion, and whether your ad account is about to get banned.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 16:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-087",
+    "video": "videos/ecomd2c-087.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "Your supplier goes quiet exactly when you need them most.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 17:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-088",
+    "video": "videos/ecomd2c-088.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "The cheapest supplier is always the slowest one.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 18:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-089",
+    "video": "videos/ecomd2c-089.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "Success is a Business Manager that's never been flagged.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 19:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-090",
+    "video": "videos/ecomd2c-090.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "Screenshotted a $4 profit like it was a Lambo.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 20:21",
+    "result": null
   }
 ]
