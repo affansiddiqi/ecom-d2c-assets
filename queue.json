@@ -1503,5 +1503,115 @@
     "status": "approved",
     "scheduled_at": "2026-08-23 00:48",
     "result": null
+  },
+  {
+    "id": "ecomd2c-071",
+    "video": "videos/ecomd2c-071.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "Grant me the serenity to accept a chargeback I cannot win, the courage to dispute the ones I can, and the wisdom to know the difference is usually just luck.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 01:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-072",
+    "video": "videos/ecomd2c-072.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "Break-even ROAS (noun): the number nobody mentions at the mastermind dinner.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 02:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-073",
+    "video": "videos/ecomd2c-073.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "A Business Manager ban is eviction with no forwarding address.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 03:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-074",
+    "video": "videos/ecomd2c-074.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "Reading reviews at 1am is self-harm with a UX.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 04:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-075",
+    "video": "videos/ecomd2c-075.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "The review that says \"changed my life\" is always for the cheapest item in the store.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 05:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-076",
+    "video": "videos/ecomd2c-076.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "Your camera roll is eighty percent dashboard screenshots.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 06:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-077",
+    "video": "videos/ecomd2c-077.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "The ad that hit 9x ROAS for exactly one day and never again.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 07:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-078",
+    "video": "videos/ecomd2c-078.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "I've said \"we're in the testing phase\" for eleven straight months.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 08:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-079",
+    "video": "videos/ecomd2c-079.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "$18,000 revenue day. Ad spend: also $18,000. Character: built.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 09:48",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-080",
+    "video": "videos/ecomd2c-080.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "I've had a full conversation with a supplier who calls me \"dear\" and I still don't know his name.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 10:48",
+    "result": null
   }
 ]
