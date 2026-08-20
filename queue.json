@@ -938,5 +938,115 @@
     "status": "approved",
     "scheduled_at": "2026-08-20 22:21",
     "result": null
+  },
+  {
+    "id": "ecomd2c-121",
+    "video": "videos/ecomd2c-121.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "Revenue up 40%. Stress up 400%. Sleep down to whatever's left.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-20 23:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-122",
+    "video": "videos/ecomd2c-122.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "I've screenshotted a $9,000 revenue day and never once mentioned the $8,800 in ad spend.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 00:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-123",
+    "video": "videos/ecomd2c-123.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "Whatever's on backorder is exactly what goes viral.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 01:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-124",
+    "video": "videos/ecomd2c-124.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "I've watched my own ad seven times in a row just to check the hook still hits.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 02:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-125",
+    "video": "videos/ecomd2c-125.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "You've built an entire identity around a product you don't personally use.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 03:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-126",
+    "video": "videos/ecomd2c-126.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "You've refreshed a tracking page more than you've refreshed anything in your personal life.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 04:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-127",
+    "video": "videos/ecomd2c-127.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "The review that said \"not what I expected\" and still left five stars.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 05:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-128",
+    "video": "videos/ecomd2c-128.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "A real one doesn't flex revenue. A real one flexes net.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 06:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-129",
+    "video": "videos/ecomd2c-129.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "Give me the patience of a customer waiting on a package and the honesty to admit I don't have it either.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 07:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-130",
+    "video": "videos/ecomd2c-130.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "The influencer who \"loved\" your product never posts it.",
+    "template": "065D6841-338F-4A56-A9B0-BDD30AC0A6A3.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-21 08:21",
+    "result": null
   }
 ]
