@@ -923,7 +923,11 @@
     "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-20 15:48",
-    "result": null
+    "result": "posted",
+    "post_id": "18123194374701652",
+    "posted_at_utc": "2026-08-20 15:55:34",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-115",
