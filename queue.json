@@ -1378,5 +1378,115 @@
     "status": "approved",
     "scheduled_at": "2026-08-22 14:21",
     "result": null
+  },
+  {
+    "id": "ecomd2c-061",
+    "video": "videos/ecomd2c-061.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "Ads Manager is the only relationship where I check in five times a day and still get ghosted.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 15:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-062",
+    "video": "videos/ecomd2c-062.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "Ask not what your supplier can do for you. Ask what your MOQ can survive.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 16:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-063",
+    "video": "videos/ecomd2c-063.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "To the customer who left one star for \"slow shipping\" six hours after ordering: I need you to breathe.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 17:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-064",
+    "video": "videos/ecomd2c-064.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "Your search history is forty percent \"why did my ROAS drop overnight.\"",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 18:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-065",
+    "video": "videos/ecomd2c-065.mp4",
+    "caption": "If your Shopify orders and your Ads Manager purchases don't match, your ROAS number is lying to you. We help Shopify brands find exactly where the tracking breaks.\n\nFollow for more.",
+    "keyword": "TRACKING",
+    "line": "Revenue screenshots age well. Ad account screenshots don't.",
+    "template": "0CCBDF38-62FD-4728-9EA8-089C8DFB4905.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 19:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-066",
+    "video": "videos/ecomd2c-066.mp4",
+    "caption": "Raising budget and watching ROAS collapse isn't bad luck, it's a scaling mistake. We help Shopify brands scale spend without cratering ROAS.\n\nFollow for more.",
+    "keyword": "SCALE",
+    "line": "\"Dear\" (noun): what your Chinese supplier calls you right before the bad news.",
+    "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 20:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-067",
+    "video": "videos/ecomd2c-067.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "I've celebrated a sale that lost money because \"at least it's data.\"",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 21:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-068",
+    "video": "videos/ecomd2c-068.mp4",
+    "caption": "ROAS drops for one of three reasons: broken tracking, dead creative, or a saturated market — guessing wrong wastes weeks. We help Shopify brands find out which one it actually is.\n\nFollow for more.",
+    "keyword": "ROAS",
+    "line": "Day 12 of blaming the algorithm instead of the creative.",
+    "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 22:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-069",
+    "video": "videos/ecomd2c-069.mp4",
+    "caption": "Most founders can't actually tell if their agency is still working the account or coasting on last quarter's win. We help Shopify brands find out for sure.\n\nFollow for more.",
+    "keyword": "AGENCY",
+    "line": "Scaling (verb): doubling your budget and your anxiety at the same time.",
+    "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-22 23:21",
+    "result": null
+  },
+  {
+    "id": "ecomd2c-070",
+    "video": "videos/ecomd2c-070.mp4",
+    "caption": "A winning ad dying doesn't always mean it's dead — sometimes it just needs a new audience, not a new ad. We help Shopify brands tell the difference before they kill a proven winner.\n\nFollow for more.",
+    "keyword": "CREATIVE",
+    "line": "I've refreshed the Shopify dashboard the way other people check their pulse.",
+    "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
+    "status": "approved",
+    "scheduled_at": "2026-08-23 00:21",
+    "result": null
   }
 ]
