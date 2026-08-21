@@ -1208,7 +1208,11 @@
     "template": "0158427F-2437-4CDD-800F-1978DEE240AE.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-21 10:48",
-    "result": null
+    "result": "posted",
+    "post_id": "18125484271701273",
+    "posted_at_utc": "2026-08-21 10:55:00",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-134",
