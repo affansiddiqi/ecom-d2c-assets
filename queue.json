@@ -1088,7 +1088,11 @@
     "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-21 02:48",
-    "result": null
+    "result": "posted",
+    "post_id": "18613381231050807",
+    "posted_at_utc": "2026-08-21 04:09:08",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-126",
