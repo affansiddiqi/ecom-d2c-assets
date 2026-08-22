@@ -1403,7 +1403,11 @@
     "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-21 23:48",
-    "result": null
+    "result": "posted",
+    "post_id": "18099138494198650",
+    "posted_at_utc": "2026-08-22 00:32:56",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-147",
