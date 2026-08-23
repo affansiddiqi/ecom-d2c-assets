@@ -1823,7 +1823,11 @@
     "template": "AEE4310C-9834-485D-A6C8-AF0112CFEDFD.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-23 03:48",
-    "result": null
+    "result": "posted",
+    "post_id": "18094616921384136",
+    "posted_at_utc": "2026-08-23 04:58:49",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-074",
