@@ -2213,7 +2213,11 @@
     "template": "E97E8C2B-C524-48F5-AEEF-60B8B08328A6.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-24 05:48",
-    "result": null
+    "result": "posted",
+    "post_id": "18113910016949192",
+    "posted_at_utc": "2026-08-24 07:00:09",
+    "error": null,
+    "video_deleted": true
   },
   {
     "id": "ecomd2c-100",
