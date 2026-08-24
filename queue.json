@@ -2228,6 +2228,10 @@
     "template": "AB29922B-09CE-4C54-A9D7-166D49043F77.MP4",
     "status": "approved",
     "scheduled_at": "2026-08-24 06:48",
-    "result": null
+    "result": "posted",
+    "post_id": "18108248054154929",
+    "posted_at_utc": "2026-08-24 07:58:32",
+    "error": null,
+    "video_deleted": true
   }
 ]
